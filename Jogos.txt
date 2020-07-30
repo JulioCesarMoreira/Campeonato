@@ -1,0 +1,6 @@
+Atlético - PR,3,Avaí,2
+Atlético - PR,7,Brasil de Pelotas,3
+Avaí,2,Atlético - PR,2
+Avaí,1,Brasil de Pelotas,4
+Brasil de Pelotas,1,Atlético - PR,5
+Brasil de Pelotas,2,Avaí,7
